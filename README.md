@@ -7,7 +7,7 @@ While we hope other labs will find these files useful, they are provided as is w
 
 * [Rat microdrives](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/drives-rat) assemblies
 * [Mouse microdrives](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/drives-mouse) assemblies
-* All [the files referenced](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/drives-rat/jove) in our [Jove Publications](http://www.jove.com/search?authors=Matthew+Wilson%2C+Massachusetts+Institute+of+Technology)
+* [The files referenced](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/drives-rat/jove) in our [Jove Publications](http://www.jove.com/search?authors=Matthew+Wilson%2C+Massachusetts+Institute+of+Technology)
 * [Other](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/other) files such as top-piece molds and parts used for building assemblies in SolidWorks
 
 ### File Locations
