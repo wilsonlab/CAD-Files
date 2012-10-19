@@ -14,6 +14,6 @@ While we hope other labs will find these files useful, they are provided as is w
 ### File Locations
  * Editable source files are found in [solidworks/](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks)
  * Ready to print files are found in [stl/](https://github.com/wilsonlab/CAD-Files/tree/master/stl)
- * Machine drawings used to manufacture our top-piece screws can be found in [drawings/](https://github.com/wilsonlab/CAD-Files/tree/master/drawing)
+ * Machine drawings used to manufacture our top-piece screws can be found in [drawings/](https://github.com/wilsonlab/CAD-Files/tree/master/drawings)
 
 
