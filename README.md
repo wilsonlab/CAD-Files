@@ -2,9 +2,10 @@ This repository contains the source files used by the Wilson lab for manufacturi
 We hope other peope/labs will find these files useful, although they are provided AS IS and without any type of warrany.
 
 These contents of this repository were designed using [SolidWorks](http://www.solidworks.com/). You'll need a copy of
-SolidWorks if you want to make any changes to the `.sldprt` files.  If you are simply interested in printing your own 
-drives the `.stl` files are all you need.
+SolidWorks if you want to make any changes to the `.sldprt` files.  However, if you only want to print our drives then
+the `.stl` files are all you need.
 
+##### Example Hyperdrive
 ![Example Drive Assembly](http://i.imgur.com/if46J.png)
 
 ###Files in this repository include:
