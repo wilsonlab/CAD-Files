@@ -5,9 +5,6 @@ These contents of this repository were designed using [SolidWorks](http://www.so
 SolidWorks if you want to make any changes to the `.sldprt` files.  However, if you only want to print our drives then
 the `.stl` files are all you need.
 
-##### Example Hyperdrive
-![Example Drive Assembly](http://i.imgur.com/if46J.png)
-
 ###Files in this repository include:
 
 * [Rat microdrives](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/drives-rat) assemblies
@@ -20,5 +17,5 @@ the `.stl` files are all you need.
  * Ready to print files are found in [stl/](https://github.com/wilsonlab/CAD-Files/tree/master/stl)
  * Machine drawings used to manufacture our top-piece screws can be found in [drawings/](https://github.com/wilsonlab/CAD-Files/tree/master/drawing)
 
-
-
+##### Example Hyperdrive
+![Example Drive Assembly](http://i.imgur.com/if46J.png)
