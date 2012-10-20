@@ -18,4 +18,4 @@ the `.stl` files are all you need.
  * Machine drawings used to manufacture our top-piece screws can be found in [drawings/](https://github.com/wilsonlab/CAD-Files/tree/master/drawing)
 
 ##### Example Hyperdrive
-![Example Drive Assembly](http://i.imgur.com/if46J.png)
+![Example Drive Assembly](http://imgur.com/LdmMT)
