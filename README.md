@@ -12,6 +12,8 @@ the `.stl` files are all you need.
 * [The files referenced](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/rat-drives/jove) in our [Jove Publications](http://www.jove.com/search?authors=Matthew+Wilson%2C+Massachusetts+Institute+of+Technology)
 * [Other](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks/other) files such as top-piece molds and parts used for building assemblies in SolidWorks
 
+See the [File Index](https://github.com/wilsonlab/CAD-Files/wiki/File-Index) for renderings of each model
+
 ### File Locations
  * Editable source files are found in [solidworks/](https://github.com/wilsonlab/CAD-Files/tree/master/solidworks)
  * Ready to print files are found in [stl/](https://github.com/wilsonlab/CAD-Files/tree/master/stl)
