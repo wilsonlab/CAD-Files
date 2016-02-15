@@ -1,0 +1,6 @@
+# Ignore the backup files created by solidworks
+*~*
+
+# Vim files
+.*.swp
+.*.swo
