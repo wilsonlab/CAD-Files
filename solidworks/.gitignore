@@ -4,3 +4,6 @@
 # Vim files
 .*.swp
 .*.swo
+
+# Ignore STL products -- they should go in the STL folder
+*.STL
